@@ -222,3 +222,110 @@ margin-left: auto;
     color: #a0a9b1;
     font-weight: 400;
 }
+#services .msv{
+    margin-top: 24px;
+}
+#services .psv{
+    padding-right: 15px;
+    padding-left: 15px;
+    line-height: 2.7;
+}
+#services .btn-sv{
+text-align: center;
+}
+#services .btn-svm{
+    text-decoration: none;
+    color: #fff;
+    background: #34d1bf;
+    border-color: #34d1bf;
+    box-shadow: 0 8px 14px rgba(52,209,191,.2);
+    font-size: 14.4px;
+    padding: 14.2px 22.4px;
+    font-weight: 500;
+    border-radius: 7px;
+}
+#solution{
+    background-color: #2f55d4;
+}
+#solution .container{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+#solution .section-title{
+    text-align: center;
+    margin: 0 0 48px;
+}
+#solution .section-title .sp{
+    padding-right: 15px;
+    padding-left: 15px;
+    max-width: 58.3333333333%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#solution .section-title .st{
+
+}
+#solution .section-title h4{
+    color: #fff;
+    font-weight: 500;
+    font-size: 24px;
+    margin: 0 0 8px;
+    line-height: 1.2;
+}
+#solution .section-title p{
+    line-height: 1.8;
+    font-size: 15px;
+    margin: 0 0 16px;
+    color: hsla(0,0%,100%,.5);
+    font-weight: 400;
+}
+#solution .section-content{
+
+}
+#solution .f-container{
+    display: flex;
+    flex-wrap: wrap;
+   /* margin-right: -15px;
+    margin-left: -15px; */
+}
+#solution .f-item{
+    flex-basis: 25%;
+    max-width: 25%;
+}
+#solution .f-item .t4{
+    text-align: center;
+    margin-top: 24px;
+}
+#solution .f-item .tag{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+#solution .f-item i{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    font-size: 40px;
+    color: #34d1bf;
+    fill: rgba(52,209,191,.2);
+    font-weight: 400;
+    line-height: 1.5;
+}
+#solution .f-item h2{
+    color: #fff;
+    margin-top: 24px;
+    font-weight: 500;
+    font-size: 32px;
+    margin-bottom: 8px;
+    line-height: 1.2;
+}
+#solution .f-item span{
+
+}
+#solution .f-item p{
+    font-size: 16px;
+    color: hsla(0,0%,100%,.5);
+    line-height: 1.8;
+    margin-top: 0;
+    margin-bottom: 16px;
+    font-weight: 400;
+}
